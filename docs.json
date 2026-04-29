@@ -25,7 +25,8 @@
     },
     "tabs": [
       {
-        "tab": "API Documentations"
+        "tab": "API Documentations",
+        "openapi": "api-reference/openapi.json"
       }
     ]
   },
