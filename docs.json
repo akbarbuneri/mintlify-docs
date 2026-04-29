@@ -63,7 +63,7 @@
       },
       {
         "tab": "API reference",
-        "openapi": "api-reference/openapi.json"
+        "openapi": "https://github.com/akbarbuneri/mintlify-docs/blob/5cb7ce39008eada1833f42aa119951dcc570aae6/api-reference/openapi.json"
       }
     ]
   },
